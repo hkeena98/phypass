@@ -8,9 +8,9 @@ Date of Release: 9/29/2018
 
 License: MIT License
 
-GitHub: 
+GitHub: https://github.com/KeyeDevelopment/phypass
 
-BitBucket: 
+BitBucket: https://bitbucket.org/KEyeDevelopment/phypass/src/master/
 
 DESCRIPTION:
 
