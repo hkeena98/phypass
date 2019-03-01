@@ -1,6 +1,6 @@
 # phypass
 
-Author: Keye Development (Henry Keena)
+Author: Henry Keena
 
 Release: 1.0
 
@@ -8,9 +8,7 @@ Date of Release: 9/29/2018
 
 License: MIT License
 
-GitHub: https://github.com/KeyeDevelopment/phypass
-
-BitBucket: https://bitbucket.org/KEyeDevelopment/phypass/src/master/
+GitHub: https://github.com/hkeena98/phypass
 
 DESCRIPTION:
 
